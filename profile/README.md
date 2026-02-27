@@ -14,18 +14,17 @@ O **meuPiá** não é apenas um compilador, é uma plataforma completa que permi
 
 | Módulo | Versão | Descrição | Status |
 | --- | --- | --- | --- |
-| [🧠 **Core](https://www.google.com/search?q=https://github.com/meupia/core)** | `v1.0.0` | O compilador modular e gerenciador de pacotes (`mpgp`). | ✅ Estável |
-| [🤖 **IA](https://www.google.com/search?q=https://github.com/meupia/ia)** | `v0.1.0` | Treinamento de Machine Learning (Scikit-Learn) nativo. | ✅ Beta |
-| [🔌 **Maker](https://www.google.com/search?q=https://github.com/meupia/maker)** | `v0.1.0` | Transpilação para MicroPython (ESP32/Pico). | ✅ Beta |
-| [🚀 **Espacial](https://www.google.com/search?q=https://github.com/meupia/espacial)** | `v0.1.0` | Controle de telemetria para Kerbal Space Program. | ✅ Beta |
+| [🧠 **Core](https://github.com/meuPia/core)** | `v1.0.2` | O compilador modular e gerenciador de pacotes (`mpgp`). | ✅ Estável |
+| [🤖 **IA](https://github.com/meuPia/ia)** | `v0.1.0` | Treinamento de Machine Learning (Scikit-Learn) nativo. | ✅ Beta |
+| [🔌 **Maker](https://github.com/meuPia/maker)** | `v0.1.0` | Transpilação para MicroPython (ESP32/Pico). | ✅ Beta |
+| [🚀 **Espacial](https://github.com/meuPia/espacial)** | `v0.1.0` | Controle de telemetria para Kerbal Space Program. | ✅ Beta |
 
 ### 📦 Instalação Rápida
 
-Comece instalando o núcleo do sistema:
+Comece instalando o núcleo do sistema, no seu terminal, execute:
 
 ```bash
-pip install git+[https://github.com/meupia/core.git](https://github.com/meupia/core.git)
-
+pip install meupia-core
 ```
 
 Instale as capacidades que você precisa:
