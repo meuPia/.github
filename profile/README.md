@@ -14,10 +14,11 @@ O **meuPiá** não é apenas um compilador, é uma plataforma completa que permi
 
 | Módulo | Versão | Descrição | Status |
 | --- | --- | --- | --- |
-| [🧠 **Core](https://github.com/meuPia/core)** | `v1.1.0` | O compilador modular e gerenciador de pacotes (`mpgp`). | ✅ Estável |
-| [🤖 **IA](https://github.com/meuPia/ia)** | `v0.1.0` | Treinamento de Machine Learning (Scikit-Learn) nativo. | ✅ Beta |
-| [🔌 **Maker](https://github.com/meuPia/maker)** | `v0.1.0` | Transpilação para MicroPython (ESP32/Pico). | ✅ Beta |
-| [🚀 **Espacial](https://github.com/meuPia/espacial)** | `v0.1.0` | Controle de telemetria para Kerbal Space Program. | ✅ Beta |
+| [🧠 **Core**](https://github.com/meuPia/core) | `v1.1.3` | O compilador modular e gerenciador de pacotes (`mpgp`). | ✅ Estável |
+| [🤖 **IA**](https://github.com/meuPia/ia) | `v0.1.0` | Treinamento de Machine Learning (Scikit-Learn) nativo. | ✅ Beta |
+| [🔌 **Maker**](https://github.com/meuPia/maker) | `v0.1.0` | Transpilação para MicroPython (ESP32/Pico). | ✅ Beta |
+| [🚀 **Espacial**](https://github.com/meuPia/espacial) | `v0.1.0` | Controle de telemetria para Kerbal Space Program. | ✅ Beta |
+| [🔬 **Lab**](https://github.com/meuPia/lab) | `v1.0.0` | Ambiente de Desenvolvimento Integrado (IDE) web. | ✅ Beta |
 
 ### 📦 Instalação Rápida
 
