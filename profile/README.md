@@ -4,8 +4,6 @@
 
 ### Democratizando a Engenharia de Software através do Portugol.
 
-</div>
-
 ---
 
 ### 🚀 O Ecossistema
