@@ -21,6 +21,18 @@ O **meuPiá** não é apenas um compilador, é uma plataforma completa que permi
 | [🚀 **Espacial**](https://github.com/meuPia/espacial) | `v0.1.0` | Controle de telemetria para Kerbal Space Program. | ✅ Beta |
 | [🗺️ **Grid**](https://github.com/meuPia/grid) | `v1.0.2` | Visualização de Grids 2D (A*, BFS, DFS). | ✅ Estável |
 | [🧪 **Testes**](https://github.com/meuPia/testes) | `v1.0.0` | Framework de testes automatizados e asserções. | ✅ Estável |
+| [🎯 **Desafios**](https://github.com/meuPia/desafios) | `-` | Banco de dados estático (Git as DB) com missões interativas. | ✅ Ativo |
+
+### 💻 IDE Online: Pratique Agora
+
+Acesse o nosso ambiente de desenvolvimento direto do navegador: **[https://meupia-lab.vercel.app](https://meupia-lab.vercel.app)**
+*(Dica: Para professores e alunos, é possível carregar exercícios específicos adicionando o parâmetro `?desafio=id_do_desafio` na URL!)*
+
+### 🎯 Desafios Interativos (meuPiá-desafios)
+
+O repositório **[meuPiá-desafios](https://github.com/meuPia/desafios)** atua como o banco de dados oficial de exercícios para o ecossistema (Git as a Database). Ele armazena missões estruturadas em arquivos `.json`, que são consumidas dinamicamente via CDN pela nossa IDE Online. 
+
+Cada desafio carrega as instruções do problema na tela e injeta testes unitários (da biblioteca `meuPia-testes`) de forma invisível no código, permitindo validar a lógica do aluno em tempo real, cobrindo desde a sintaxe básica até algoritmos de Pathfinding (como o A*).
 
 ### 📦 Instalação Rápida
 
