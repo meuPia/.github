@@ -14,6 +14,7 @@ O **meuPiá** não é apenas um compilador, é uma plataforma completa que permi
 | --- | --- | --- | --- |
 | [🧠 **Core**](https://github.com/meuPia/core) | `v1.2.0` | Transpilador Portugol → Python e gerenciador de pacotes (`mpgp`). | ✅ Estável |
 | [🔬 **Lab**](https://github.com/meuPia/lab) | motor `v1.2.0` | IDE web que roda o Core no navegador (Pyodide + CodeMirror + Xterm.js). | ✅ Estável |
+| [🏁 **Arena**](https://github.com/meuPia/arena) | `v0.1.0` | Plataforma para eventos de code challenge: desafios por equipe, correção automática com testes privados e placar em tempo real. | ✅ Beta |
 | [🤖 **IA**](https://github.com/meuPia/ia) | `v0.1.0` | Treinamento de Machine Learning (Scikit-Learn) nativo. | ✅ Beta |
 | [🔌 **Maker**](https://github.com/meuPia/maker) | `v0.1.0` | Transpilação para MicroPython (ESP32/Pico). | ✅ Beta |
 | [🚀 **Espacial**](https://github.com/meuPia/espacial) | `v0.1.0` | Controle de telemetria para Kerbal Space Program. | ✅ Beta |
@@ -69,6 +70,15 @@ As trilhas atuais cobrem Fundamentos de Inteligência Artificial:
 | 🧩 **Representação do conhecimento** | Redes Semânticas, Frames (IF-ADDED / IF-NEEDED), Ontologias, Tradutor Universal (JSON-LD) |
 
 Experimente: [meupia-lab.vercel.app/?desafio=a_estrela_manhattan](https://meupia-lab.vercel.app/?desafio=a_estrela_manhattan)
+
+### 🏁 Competições (meuPiá-arena)
+
+O **[meuPiá-arena](https://github.com/meuPia/arena)** é um fork do Lab adaptado para maratonas e eventos de code challenge. Cada equipe entra com seu código de acesso, resolve desafios na IDE do navegador e submete as soluções, que são corrigidas no servidor com testes públicos e privados.
+
+- Desbloqueio progressivo de níveis e cooldown entre tentativas.
+- Pontuação pela melhor submissão, com registro de quem escreveu cada solução.
+- Placar em tempo real com modo telão e painel administrativo para a organização.
+- Modo offline para eventos sem internet.
 
 ### 📦 Instalação Rápida
 
